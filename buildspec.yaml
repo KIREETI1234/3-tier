@@ -2,11 +2,11 @@ version: 0.2
 
 env:
   variables:
-    ACCOUNT_ID: 216989142685
+    ACCOUNT_ID: 084828586975
     REGION: us-east-1
-    REPO_NAME: final
-    IMAGE_TAG: app
-    IMAGE_URI: 216989142685.dkr.ecr.us-east-1.amazonaws.com/final:app
+    REPO_NAME: 3-tier
+    IMAGE_TAG: latest
+    IMAGE_URI: 084828586975.dkr.ecr.us-east-1.amazonaws.com/3-tier:latest
 
 phases:
   install:
